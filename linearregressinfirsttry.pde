@@ -1,3 +1,8 @@
+// Gets your mouse position and taps, adds an DataPoint object to the data array.
+// Draws circles to represent data points.
+//Maps the canvas so that it fits the cartesian coordinate system (bottom left corner being (0,0) and top right corner being (1,1)
+
+
 ArrayList<DataPoints> data = new ArrayList<DataPoints>();
 float m =0.5;
 float b = 0;
@@ -30,11 +35,11 @@ data.add(new DataPoints(x, y));
 
 }
 
-boolean calcLinearRegression() {
+boolean calcLinearRegression() {  // check if denominator is zero, if not return true
 
   float xsum = 0;
   float ysum = 0;
-  for(int i=0; i<data.size(); i++) {
+  for(int i=0; i<data.size(); i++) {        
     DataPoints d = data.get(i);
     xsum += d.xPos;
     ysum += d.yPos;
