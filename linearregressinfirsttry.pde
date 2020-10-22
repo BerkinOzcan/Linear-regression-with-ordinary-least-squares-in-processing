@@ -24,7 +24,7 @@ for (int i=0; i<data.size(); i++) {   // iterate through datapoint objects, map 
 
 stroke(255,0,255);
 if(data.size() > 1 && calcLinearRegression() == true) {      // make sure that there is more than one datapoints and
-drawLine();                                                  // in the formula shown in: https://1989-6580.el-alt.com/images/img12.gif
+drawLine();                                                  // in the formula shown in readme file (equation number 1)
 }
 
 }
