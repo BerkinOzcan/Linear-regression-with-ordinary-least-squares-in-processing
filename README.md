@@ -6,7 +6,7 @@ Processing website: https://processing.org/
 <img src="/ssforlinearreg/ss1.png?raw=true" width="480">
 
 # Formulas and stuff!
-/*!)-*&~n/{"isRoot":false,"isTextMode":false,"isTabularCellsSelected":false,"isPureText":false,"insideInlineMath":false,"lines":[{"blocks":[{"text":"m="},{"text":"\\frac","type":"composite","elements":{"value":{"lines":[{"blocks":[{"text":"𝛴"},{"type":"single","text":"("},{"text":"x-"},{"text":"\\overline","type":"composite","elements":{"value":{"lines":[{"blocks":[{"text":"x"},{"type":"single","text":")"}]}]}}},{"text":"+"},{"type":"single","text":"("},{"text":"y-"},{"text":"\\overline","type":"composite","elements":{"value":{"lines":[{"blocks":[{"text":"y"}]}]}}},{"type":"single","text":")"}]}]},"sub1":{"lines":[{"blocks":[{"text":"𝛴"},{"type":"single","text":"("},{"text":"x-"},{"text":"\\overline","type":"composite","elements":{"value":{"lines":[{"blocks":[{"text":"x"}]}]}}},{"type":"single","text":")"},{"text":"\\power","type":"composite","elements":{"powerValue":{"lines":[{"blocks":[{"text":"2"}]}]}}}]}]}}},{"text":" "}],"tagInfo":{"type":"auto","tagId":"tid0.13283294711802052","tagName":""}}],"rootEditorId":"r0.7319431647829076","inlineMathDisplayStyle":null}
+<iframe frameBorder="0" width="100%" height="100%" src="https://www.mathcha.io/editor/V4jJLsLvCjWC2e5oPOcGq1KmGh76V6d1SDKknxq?embedded=true" ></iframe>
 
 <img src="https://cdn.technologynetworks.com/tn/images/body/juuu1538567366342.pngraw=true" width="720">
 
