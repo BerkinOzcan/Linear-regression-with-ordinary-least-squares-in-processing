@@ -8,12 +8,13 @@ Processing website: https://processing.org/
 # Formulas and stuff!
 https://www.mathcha.io/editor/V4jJLsLvCjWC2e5oPOcGq1KmGh76V6d1SDKknxq
 
-
+Click <a href="https://www.mathcha.io/editor/V4jJLsLvCjWC2e5oPOcGq1KmGh76V6d1SDKknxq
+">here</a> to go to the equations.
 
 
 
 A line's equation is y=mx+b. m is slope and b is the y intercept.
-In the image above is the formula to calculate b value.
+In the link above is the formula to calculate b value
 x's and y's with lines above them are avarage values (mean values)     sum of all values divided by how many there are.
 
 
