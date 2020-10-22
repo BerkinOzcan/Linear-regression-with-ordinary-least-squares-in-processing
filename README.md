@@ -8,7 +8,7 @@ Processing website: https://processing.org/
 # Formulas and stuff!
 <iframe frameBorder="0" width="100%" height="100%" src="https://www.mathcha.io/editor/V4jJLsLvCjWC2e5oPOcGq1KmGh76V6d1SDKknxq?embedded=true" ></iframe>
 
-<img src="https://cdn.technologynetworks.com/tn/images/body/juuu1538567366342.pngraw=true" width="720">
+
 
 
 
