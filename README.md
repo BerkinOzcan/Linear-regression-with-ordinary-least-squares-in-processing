@@ -6,7 +6,7 @@ Processing website: https://processing.org/
 <img src="/ssforlinearreg/ss1.png?raw=true" width="480">
 
 # Formulas and stuff!
-<iframe frameBorder="0" width="100%" height="100%" src="https://www.mathcha.io/editor/V4jJLsLvCjWC2e5oPOcGq1KmGh76V6d1SDKknxq?embedded=true" ></iframe>
+https://www.mathcha.io/editor/V4jJLsLvCjWC2e5oPOcGq1KmGh76V6d1SDKknxq
 
 
 
