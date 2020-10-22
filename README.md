@@ -4,9 +4,10 @@ This is only the source code. You are going to need Processing IDE to run this c
 Processing website: https://processing.org/
 # Screenshot
 <img src="/ssforlinearreg/ss1.png?raw=true" width="480">
+
 # Formulas and stuff!
 
-https://cdn.technologynetworks.com/tn/images/body/juuu1538567366342.png
+
 <img src="https://cdn.technologynetworks.com/tn/images/body/juuu1538567366342.pngraw=true" width="720">
 
 
